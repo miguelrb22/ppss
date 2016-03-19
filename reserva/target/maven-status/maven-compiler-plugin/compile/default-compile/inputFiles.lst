@@ -1,0 +1,11 @@
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/ReservaTestable.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/excepciones/ReservaException.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/Reserva.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/Usuario.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/excepciones/JDBCException.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/OperacionStub.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/excepciones/IsbnInvalidoException.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/Operacion.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/I0PerationFactory.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/excepciones/SocioInvalidoException.java
+/home/ppss/NetBeansProjects/reserva/src/main/java/ppss/IOperacionBO.java

@@ -1,0 +1,11 @@
+ppss/Usuario.class
+ppss/IOperacionBO.class
+ppss/OperacionStub.class
+ppss/Operacion.class
+ppss/excepciones/JDBCException.class
+ppss/ReservaTestable.class
+ppss/excepciones/ReservaException.class
+ppss/excepciones/SocioInvalidoException.class
+ppss/excepciones/IsbnInvalidoException.class
+ppss/I0PerationFactory.class
+ppss/Reserva.class
